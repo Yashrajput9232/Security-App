@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230922804635",
+    "project_id": "me---iit-bhu",
+    "storage_bucket": "me---iit-bhu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230922804635:android:8c161a90ffc15e2757553e",
+        "android_client_info": {
+          "package_name": "com.example.secure_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4eeP73DXXE8pYFRVbXScE_1rSnfn0aCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
